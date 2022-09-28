@@ -1,4 +1,5 @@
 {
+ "start_url": "index.htm",
  "name": "AGENCIA IW2DIGITAL ",
  "icons": [
   {
@@ -37,8 +38,7 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm",
- "background_color": "#000000",
  "theme_color": "#000000",
+ "background_color": "#000000",
  "display": "fullscreen"
 }
